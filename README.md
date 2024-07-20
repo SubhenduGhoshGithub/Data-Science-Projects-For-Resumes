@@ -35,3 +35,5 @@
     - **End To End Text To SQL LLM App Along With Querying SQL Database Using Google Gemini Pro** [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=wFdFLWc-W4k)
     - **End To End Multi Language Invoice Extractor Project Using Google Gemini Pro Free LLM Model** [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=-ny5_RSMV6kk)
     - **Build a PDF Document Question Answering LLM System With Langchain,Cassandra,Astra DB,Vector Database** [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=zxo3T4aQj6Q)
+	
+	SUBHENDU GHOSH
